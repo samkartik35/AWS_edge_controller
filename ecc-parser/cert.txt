@@ -1,0 +1,2 @@
+certificate,privatekey,rootca
+8f093dc9e2-certificate.pem.crt,8f093dc9e2-private.pem.key,root.pem

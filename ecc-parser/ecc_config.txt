@@ -1,0 +1,17 @@
+siteid,noofsensors,serviceID,ThingName,Component,Subcomponent,Part,Parameter
+mckhnib001,8,5w6sdu5ht1,dgmckhnib001,engine,lub-oil,oil-glry,LubeOilPressure
+mckhnib001,8,5w6sdu5ht1,dgmckhnib001,engine,cool-sys,thermst,EngineWaterTemp
+mckhnib001,8,5w6sdu5ht1,dgmckhnib001,alternat,amf-pane,load-ct,DGVoltage
+mckhnib001,8,5w6sdu5ht1,dgmckhnib001,engine,bat-chg,battery,BatteryVoltage
+mckhnib001,8,5w6sdu5ht1,dgmckhnib001,canopy,fuel-tnk,,FuelLevel
+mckhnib001,8,5w6sdu5ht1,dgmckhnib001,engine,bat-chg,chg-altr,DynamoVoltage
+mckhnib001,8,5w6sdu5ht1,dgmckhnib001,eb-volt,amf-pane,load-ct,EBVoltage
+mckhnib001,8,5w6sdu5ht1,dgmckhnib001,load-cur,amf-pane,load-ct,CurrentVarin
+abcdefghij,8,5w6sdu5ht1,dg,engine,lub-oil,oil-glry,LubeOilPressure
+abcdefghij,8,5w6sdu5ht1,dg,engine,cool-sys,thermst,EngineWaterTemp
+abcdefghij,8,5w6sdu5ht1,dg,alternat,amf-pane,load-ct,DGVoltage
+abcdefghij,8,5w6sdu5ht1,dg,engine,bat-chg,battery,BatteryVoltage
+abcdefghij,8,5w6sdu5ht1,dg,canopy,fuel-tnk,,FuelLevel
+abcdefghij,8,5w6sdu5ht1,dg,engine,bat-chg,chg-altr,DynamoVoltage
+abcdefghij,8,5w6sdu5ht1,dg,eb-volt,amf-pane,load-ct,EBVoltage
+abcdefghij,8,5w6sdu5ht1,dg,load-cur,amf-pane,load-ct,CurrentVariation
